@@ -1,1 +1,1 @@
-api = "7917276253:AAFkVndZfjAi2WchWQDkXeMjqaimATGpqEw"
+api = ""
